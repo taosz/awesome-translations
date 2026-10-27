@@ -51,6 +51,8 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [Argos Translate](https://github.com/argosopentech/argos-translate) - Completely open source offline translation app written in Python and based on OpenNMT. It can also be used as a Python library.
 - [LibreTranslate](https://github.com/uav4geo/LibreTranslate) - 100% Self-Hosted web app to translate text, based on Argos Translate.
 
+- [Scanfile](https://scanfile.online/) - Proprietary web app for translating PDF, EPUB, PowerPoint and subtitle files, with limited samples and prepaid credits.
+
 ## Tools
 
 - [Apertium](https://github.com/apertium) - an open-source tool that offers a variety of tools for developing and maintaining machine translation systems between different languages.
